@@ -130,6 +130,7 @@ func GetRegions() AWSRegions {
 		NewRegion("Asia Pacific (Sydney)", "ap-southeast-2"),
 		NewRegion("Asia Pacific (Jakarta)", "ap-southeast-3"),
 		NewRegion("Asia Pacific (Melbourne)", "ap-southeast-4"),
+		NewRegion("Asia Pacific (Malaysia)", "ap-southeast-5"),
 		NewRegion("Canada (Central)", "ca-central-1"),
 		NewRegion("Europe (Frankfurt)", "eu-central-1"),
 		NewRegion("Europe (Zurich)", "eu-central-2"),
